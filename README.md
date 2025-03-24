@@ -6,7 +6,9 @@ The goal of this project is to build a machine learning model that classifies ho
 The dataset consists of hospital reviews labeled with corresponding sentiment indicators:
 
 Positive (1) — Indicates a favorable experience
+
 Negative (0) — Indicates a poor experience
+
 Each review undergoes extensive preprocessing to remove noise and prepare it for training. The steps include tokenization, punctuation removal, stopword elimination, lowercasing, and stemming. The cleaned dataset is then used to train a deep learning model.
 ### Key Insights:
 #### 1. Data Cleaning
